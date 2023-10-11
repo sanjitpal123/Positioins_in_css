@@ -1,0 +1,5 @@
+2.Explain the difference bewtween Absolute and Relative Positions.
+Solution.
+  
+   Absolute describes something as being independent, while the word "Relative " refers to something being dependent. Something "absolute" is pure and self-sufficient. It does not rely on external factors to make it so.
+   
